@@ -1,0 +1,17 @@
+
+# todo
+settings:
+  useproxy: false
+    custom: true
+      file_name: proxies.txt 
+    richards_eu: false
+    proxy_scrape: false
+  
+  target_format: 1
+    # 1 = .mp3 reconmended
+    # 2 = .mp4 video
+    # 3 = .wav HUGE!!!
+    # 4 = .opus smallest
+    # 5 = .m4a smaller
+    # 6 = .mp5 save this for your professor
+  target_dir: Desktop
