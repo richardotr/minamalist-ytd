@@ -1,17 +1,29 @@
+#not fool-proof
 
-# todo
-settings:
-  useproxy: false
-    custom: true
-      file_name: proxies.txt 
-    richards_eu: false
-    proxy_scrape: false
-  
-  target_format: 1
-    # 1 = .mp3 reconmended
-    # 2 = .mp4 video
-    # 3 = .wav HUGE!!!
-    # 4 = .opus smallest
-    # 5 = .m4a smaller
-    # 6 = .mp5 save this for your professor
-  target_dir: Desktop
+batch_convert_max_threads: 3 
+# you can handle 30 but yt may ip ban
+
+keep_metadata: false
+
+open_on_resolve: true
+
+clear_screen: true
+# hardmode
+
+kbps: 1
+# 1 = default
+
+keep_yt_name: true
+
+music: true
+
+target_format: 1
+# 1 = .mp3 default-reconmended
+# 2 = .mp4 video
+# 3 = .wav HUGE!!!
+# 4 = .opus smallest
+# 5 = .m4a smaller
+
+target_dir: Desktop
+# Desktop\hi 
+# would make a folder named hi & put it in there
