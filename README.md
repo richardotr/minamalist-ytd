@@ -1,6 +1,6 @@
 # minamalist-ytd
 an unoffical discontinued fork of youtube downloader 
-windows 64bit
+welp its broken ;(
 
 # ffmpeg ver
 https://github.com/BtbN/FFmpeg-Builds/releases/tag/autobuild-2021-11-30-12-21
